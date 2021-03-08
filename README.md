@@ -1,7 +1,2 @@
 # Eliza
-Simple common-lisp implementation of eliza
-
-## Usage 
-```
-(eliza)
-```
+Simple common-lisp implementation of Eliza
