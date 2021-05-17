@@ -1,2 +1,1 @@
-# Eliza
-Simple common-lisp implementation of Eliza
+# PAIP programs
